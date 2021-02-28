@@ -16,9 +16,15 @@
     <ClCompile Include="Render.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Entities.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Render.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Entities.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
   </ItemGroup>
